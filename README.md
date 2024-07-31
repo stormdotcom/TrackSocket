@@ -1,7 +1,7 @@
 
-# SocketScout
+# TrackSocket
 
-**SocketScout** is a real-time device tracking application that leverages WebSocket technology to provide seamless and instant updates on device locations. Ideal for monitoring devices in real-time, SocketScout is designed for both developers and enthusiasts interested in location tracking and real-time data updates.
+**TrackSocket** is a real-time device tracking application that leverages WebSocket technology to provide seamless and instant updates on device locations. Ideal for monitoring devices in real-time, TrackSocket is designed for both developers and enthusiasts interested in location tracking and real-time data updates.
 
 ## Features
 
@@ -12,18 +12,18 @@
 
 ## Installation
 
-To get started with SocketScout, follow these steps:
+To get started with TrackSocket, follow these steps:
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/stormdotcom/socketscout.git
+   git clone https://github.com/stormdotcom/TrackSocket.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd socketscout
+   cd TrackSocket
    ```
 
 3. **Install Dependencies**
@@ -57,7 +57,7 @@ You can configure various settings in the `config.js` file:
 
 ## Contributing
 
-Contributions are welcome! To contribute to SocketScout:
+Contributions are welcome! To contribute to TrackSocket:
 
 1. **Fork the Repository**
 2. **Create a New Branch**: `git checkout -b feature/YourFeature`
@@ -67,9 +67,9 @@ Contributions are welcome! To contribute to SocketScout:
 
 ## License
 
-SocketScout is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+TrackSocket is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-For any questions or issues, please contact [ajmaln73@gmail.com](mailto:ajmaln73@gmail.com) or open an issue on the [GitHub repository](https://github.com/stormdotcom/socketscout/issues).
+For any questions or issues, please contact [ajmaln73@gmail.com](mailto:ajmaln73@gmail.com) or open an issue on the [GitHub repository](https://github.com/stormdotcom/TrackSocket/issues).
 
